@@ -1,0 +1,7 @@
+web3==6.15.1
+python-dotenv==1.0.0
+pandas==2.1.1
+tqdm==4.66.1
+pytest==7.4.2
+python-dateutil==2.8.2
+requests==2.31.0
